@@ -7,7 +7,3 @@ end
 
 maru = Cat.new
 maru.name = "Maru"
-
-
-
-define the meow method within the class, then within that method is where you would use puts.
