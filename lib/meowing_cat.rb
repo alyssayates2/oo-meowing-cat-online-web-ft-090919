@@ -1,4 +1,4 @@
-class Cat 
+class Cat
   attr_accessor :name, :puts
 end
 
